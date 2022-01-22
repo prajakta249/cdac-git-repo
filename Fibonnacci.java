@@ -10,6 +10,7 @@ class Fibonnacci
       int nextTerm = f1+s1;
       f1=s1;
       s1=nextTerm;
+      
     }
   }
 }
